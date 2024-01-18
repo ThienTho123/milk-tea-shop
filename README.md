@@ -33,7 +33,7 @@ Nếu bạn gặp bất kỳ vấn đề nào hoặc có ý kiến đóng góp, 
 
 | Milk Tea Shop |
 |--------------|
-| ![Milk Tea Shop](project-b/assets/image/img.png)
+| ![Milk Tea Shop](https://github.com/ThienTho123/milk-tea-shop/blob/master/project-b/assets/img.png)
 </div>
 
 ## 👥 Người Đóng Góp
